@@ -35,7 +35,7 @@ The below topics are well-known for some tricky exam questions - based on feedba
 
 If you are new to taking Exams with Pearson VUE, I would advise to watch these tips: https://youtu.be/v73GLKmxZUE  and to read the Microsoft certification tips.
 
-Note For Microsoft Employees: Please make sure to link your MS alias with your personal Outlook/Hotmail email ID on the Pearson VUE website to be able to leverage the exempted exam cost benefit for Microsoft FTEs. And please note that even after linking your MS alias, you will always see the exam cost as $99.00 only until the checkout page, where you will be able to see the exam cost as $0.00.
+Please make sure to link your MS alias with your personal Outlook/Hotmail email ID on the Pearson VUE website to be able to leverage the exempted exam cost benefit for Microsoft FTEs. And please note that even after linking your MS alias, you will always see the exam cost as $99.00 only until the checkout page, where you will be able to see the exam cost as $0.00.
 
 Thanks!
 GamalM.
