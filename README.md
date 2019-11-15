@@ -1,7 +1,7 @@
 ![](https://github.com/gamalmagdy/Azure-Fun-damentals/blob/master/Azure-Fun-damentalsHeader.jpg)
 
 # Azure-Fun-damentals
-Quick guidance for mastering the Azure Fundamentals learning path and passing the AZ-900 Exam
+Quick guidance for mastering the Azure Fundamentals learning path and passing the AZ-900 Exam as a TSI for Microsoft Employees.
 
 Getting Start with the Azure Fundamentals Learning Path through Microsoft Learn: https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/ 
 
